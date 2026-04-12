@@ -91,7 +91,7 @@ Derivation B — Total Serialized Payload Across All 10 Chains
   Final result: 9,054 bytes
 
   Interpretation: Total serialized payload returned across
-  the entire medium-tier workload suite.
+  the entire medium-tier workload suite
 
 
 Derivation C — HN Mean Score vs. Steam Mean Price Ratio
